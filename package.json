@@ -1,0 +1,23 @@
+{
+  "name": "slashcommandsts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^1.8.1",
+    "axios": "^1.6.8",
+    "discord.js": "^14.15.2",
+    "make-random": "^3.0.2"
+  }
+}
